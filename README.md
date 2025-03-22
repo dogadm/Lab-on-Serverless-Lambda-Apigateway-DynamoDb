@@ -353,6 +353,14 @@ To remove the table, Lambda function, and API that were created, follow these st
 
 By following these steps, you can delete the DynamoDB table, Lambda function, and API from their respective consoles.
 
+---
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dolapoadeola.framer.website/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeoladolapo/)
+
+---
+
 
 
 
